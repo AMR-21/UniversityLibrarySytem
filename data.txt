@@ -1,0 +1,9 @@
+a,amr,123
+a,marwan,456
+l,amr,12345,amr@gmail.com,Alexandria,Sidi Gaber,0123921294
+l,marwan,67890,marwan@gmail.com,Alexandria,Smouha,0123456
+b,A@4,Mickey,Batoot,Disney,15,0,05-05-2021 21:43:56 pm
+b,A@5,Batoot,Mickey,Disney,15,0,05-05-2021 21:48:57 pm
+b,A@6,Uncle Dahab,Mickey & Batoot,Disney,20,0,05-05-2021 21:50:41 pm
+b,A@7,Groove street,Cj,Rockstar,1,0,05-05-2021 21:52:07 pm
+s,marwan,12345,marwan@gmail.com,alexandria,6000,smouha,01234456,0,0.0
